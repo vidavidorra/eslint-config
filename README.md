@@ -39,10 +39,10 @@ export {default} from '@vidavidorra/eslint-config';
 As documented in the the [**ESLint**][eslint] [Share Configuration](https://eslint.org/docs/latest/extend/shareable-configs) documentation, configurations can also be extended and overridden. The following example shows such an example, again in the `eslint.config.js` file.
 
 ```js
-import config from '@vidavidorra/eslint-config';
+import vidavidorraConfig from '@vidavidorra/eslint-config';
 
-export default [
-  ...config,
+const config = [
+  ...vidavidorraConfig,
   {
     ignores: ['modules/'],
     rules: {
@@ -51,6 +51,8 @@ export default [
     },
   },
 ];
+
+export default config;
 ```
 
 ## Contributing
