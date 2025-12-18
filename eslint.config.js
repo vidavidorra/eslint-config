@@ -1,3 +1,2 @@
-import xo from 'xo';
-
-export default xo.xoToEslintConfig([{space: true, prettier: 'compat'}]);
+// eslint-disable-next-line n/file-extension-in-import
+export {default} from './src/index.ts';
