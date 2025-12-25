@@ -63,6 +63,11 @@
       "text-summary"
     ]
   },
+  "overrides": {
+    "@commitlint/config-conventional": {
+      "conventional-changelog-conventionalcommits": ">=9.0.0"
+    }
+  },
   "dependencies": {
     "xo": "1.2.3"
   },
