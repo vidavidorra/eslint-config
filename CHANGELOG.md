@@ -1,3 +1,13 @@
+## [1.0.4](https://github.com/vidavidorra/eslint-config/compare/v1.0.3...v1.0.4) (2026-02-28)
+
+### Bug Fixes
+
+- **deps:** remove conventional-changelog-conventionalcommits override ([d7420c6](https://github.com/vidavidorra/eslint-config/commit/d7420c6bc08126a3b475867d9290c8862774a0f3))
+
+### Styles
+
+- format changelog and override `conventional-changelog-conventionalcommits` ([eafe80f](https://github.com/vidavidorra/eslint-config/commit/eafe80f4a62df392a1896a719e1dd0e74d9cd003))
+
 ## [1.0.3](https://github.com/vidavidorra/eslint-config/compare/v1.0.2...v1.0.3) (2025-12-18)
 
 ### Continuous Integration
