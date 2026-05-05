@@ -64,7 +64,7 @@
     ]
   },
   "dependencies": {
-    "xo": "1.2.3"
+    "xo": "2.0.2"
   },
   "devDependencies": {
     "@ava/typescript": "6.0.0",
