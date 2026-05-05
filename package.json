@@ -67,7 +67,7 @@
     "xo": "1.2.3"
   },
   "devDependencies": {
-    "@ava/typescript": "6.0.0",
+    "@ava/typescript": "7.0.0",
     "@commitlint/cli": "20.4.2",
     "@vidavidorra/commitlint-config": "7.1.18",
     "@vidavidorra/prettier-config": "1.0.7",
