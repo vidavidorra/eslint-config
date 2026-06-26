@@ -41,7 +41,6 @@ jobs:
   release:
     uses: vidavidorra/.github/.github/workflows/release.yml@33abc1beb87f9c69cae9bd055cb680c910a8b661 # v8.1.22
     needs:
-      - lint-commit-messages
       - lint
       - build
       - test
