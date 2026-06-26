@@ -1,3 +1,17 @@
+## [2.0.0](https://github.com/vidavidorra/eslint-config/compare/v1.0.4...v2.0.0) (2026-06-26)
+
+### ⚠ BREAKING CHANGES
+
+- **deps:** ESLint v10 is now the minimum required ESLint version.
+
+### Continuous Integration
+
+- remove commitlint dependency for releases ([21dbd06](https://github.com/vidavidorra/eslint-config/commit/21dbd063cca751715f0b2b9c3b3580824de8f901))
+
+### Bug Fixes
+
+- **deps:** update dependency xo to v3 and ESLint to v10 ([#18](https://github.com/vidavidorra/eslint-config/issues/18)) ([6c3327c](https://github.com/vidavidorra/eslint-config/commit/6c3327ccb802a9924a6512f5a0acc5aca0254132))
+
 ## [1.0.4](https://github.com/vidavidorra/eslint-config/compare/v1.0.3...v1.0.4) (2026-02-28)
 
 ### Bug Fixes
