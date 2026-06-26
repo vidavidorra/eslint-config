@@ -64,7 +64,7 @@
     ]
   },
   "dependencies": {
-    "xo": "1.2.3"
+    "eslint-config-xo": "0.54.1"
   },
   "devDependencies": {
     "@ava/typescript": "7.0.0",
@@ -74,7 +74,7 @@
     "@vidavidorra/semantic-release-config": "2.0.2",
     "ava": "8.0.1",
     "c8": "11.0.0",
-    "eslint": "9.39.4",
+    "eslint": "10.5.0",
     "husky": "9.1.7",
     "lint-staged": "17.0.8",
     "prettier": "3.8.4",
@@ -82,7 +82,7 @@
     "typescript": "6.0.3"
   },
   "peerDependencies": {
-    "eslint": ">=9"
+    "eslint": ">=10"
   },
   "engines": {
     "node": ">=22"
