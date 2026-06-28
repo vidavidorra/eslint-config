@@ -1,3 +1,9 @@
+## [2.0.1](https://github.com/vidavidorra/eslint-config/compare/v2.0.0...v2.0.1) (2026-06-28)
+
+### Bug Fixes
+
+- **deps:** update dependency eslint-config-xo to v0.55.0 ([2b8f21d](https://github.com/vidavidorra/eslint-config/commit/2b8f21debbefd2133526c1acad1e52f95d6a8a31))
+
 ## [2.0.0](https://github.com/vidavidorra/eslint-config/compare/v1.0.4...v2.0.0) (2026-06-26)
 
 ### ⚠ BREAKING CHANGES
