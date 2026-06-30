@@ -12,6 +12,10 @@ const config: Linter.Config[] = [
       'json/no-empty-keys': 'off',
     },
   },
+  {
+    files: ['**/CHANGELOG.md'],
+    rules: {'markdown/no-duplicate-headings': 'off'},
+  },
 ];
 
 export default config;
