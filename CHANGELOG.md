@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/vidavidorra/eslint-config/compare/v2.0.1...v2.0.2) (2026-06-30)
+
+### Bug Fixes
+
+- disable `markdown/no-duplicate-headings` for changelogs ([bdf0653](https://github.com/vidavidorra/eslint-config/commit/bdf06532c68c2d2a23e61025e9f70b2d31b8cb7b))
+- disable `unicorn/consistent-boolean-name` ([2ebea4d](https://github.com/vidavidorra/eslint-config/commit/2ebea4d7bcc953f142f0c136c0d8e2ce37c494d3))
+
 ## [2.0.1](https://github.com/vidavidorra/eslint-config/compare/v2.0.0...v2.0.1) (2026-06-28)
 
 ### Bug Fixes
