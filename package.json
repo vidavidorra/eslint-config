@@ -64,7 +64,7 @@
     ]
   },
   "dependencies": {
-    "eslint-config-xo": "0.57.0"
+    "eslint-config-xo": "0.58.1"
   },
   "devDependencies": {
     "@ava/typescript": "7.0.0",
